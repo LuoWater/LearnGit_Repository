@@ -1,5 +1,7 @@
+git clone https://github.com/LuoWater/LearnGit_Repository.git  克隆github上的仓库到本地
+
 git add .        
 
-git commit  -m  "�ύ��Ϣ"  
+git commit  -m  "Ìá½»ÐÅÏ¢"  
 
 git push -u origin master 
