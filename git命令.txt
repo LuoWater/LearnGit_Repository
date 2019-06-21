@@ -2,6 +2,6 @@ git clone https://github.com/LuoWater/LearnGit_Repository.git  克隆github上�
 
 git add .        
 
-git commit  -m  "Ìá½»ÐÅÏ¢"  
+git commit  -m  "information"  
 
 git push -u origin master 
